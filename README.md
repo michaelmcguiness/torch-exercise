@@ -21,12 +21,6 @@ Requirements
 - Python-3.7
 - pip3
 
-Create a .env file to store Application settings.
-
-```
-touch .env
-```
-
 Setup virtualenv
 
 ```
