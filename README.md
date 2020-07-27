@@ -21,7 +21,7 @@ Requirements
 - Python-3.7
 - pip3
 
-Setup virtualenv
+cd into the app directory and create virtualenv
 
 ```
 pip3 install virtualenv
